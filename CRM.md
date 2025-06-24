@@ -1,0 +1,12 @@
+# RNGE4 - CRM
+
+## 1. PAINEL
+
+## 2. LEADS
+
+## 3. CONTATOS
+
+## 4. CLIENTES
+
+## 5. OPORTUNIDADES
+
